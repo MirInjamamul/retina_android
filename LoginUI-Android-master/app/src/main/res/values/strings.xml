@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">RYMB</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="blood_prompt">Choose a blood group</string>
+    <string name="profession_prompt">Choose a Profession</string>
+    <string name="musician_prompt">Choose a Instrument</string>
+
+    <string-array name="bloodGroup">
+        <item>A+</item>
+        <item>A-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+
+    <string-array name="profession">
+        <item>Singer</item>
+        <item>Musician</item>
+    </string-array>
+
+    <string-array name="musician">
+        <item>Acoustic Drums</item>
+        <item>Octapad</item>
+        <item>Keyboard</item>
+        <item>lead guitar</item>
+        <item>bass guitar</item>
+        <item>Flute</item>
+        <item>Tabla</item>
+        <item>Percussion</item>
+        <item>Violin</item>
+        <item>Composer</item>
+        <item>Harmonium</item>
+        <item>Others</item>
+    </string-array>
+</resources>
